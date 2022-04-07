@@ -63,3 +63,7 @@ The [drip garden](https://theanimal.farm/garden) on animal farm is a high risk, 
 ### Faucet
 
 The [drip faucet](https://drip.community/faucet) on drip community is a low risk, high reward game that produces a consistent 1% daily return up to a 365% maximum payout. You can compound earnings via regular deposits and compounding rewards. The more that is compounded the larger the daily reward and maximum payout will be. This compounder will check the available dollar amount exceeds the amount to compound. Unlike the garden though, there is no effect doing this with a larger amount.
+
+## Donations
+
+If you have found this useful please consider a donation to wallet address `0x893d850166B9BA1123955916830B97A2C9Ceb2Af`
